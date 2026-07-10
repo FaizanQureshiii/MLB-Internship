@@ -1,0 +1,78 @@
+# End of Day Progress Report – Day 1
+
+Name: Muhammad Faizan
+Internship: Machine Learning Internship
+Day: 1
+
+## Tasks Completed
+
+### Python Fundamentals
+
+I studied and practiced the following Python concepts:
+
+ Virtual Environments
+ Data Types
+ Variables
+ Data Structures (List, Tuple, Set, Dictionary)
+ Functions
+ Conditional Operators
+
+I focused on understanding what each concept is, why it is used, and how it works by writing and testing small programs.
+
+### Git & GitHub Basics
+
+I learned the fundamentals of Git and GitHub, including:
+
+ What Git and GitHub are
+ Creating a GitHub repository
+ Cloning a repository
+ Branching
+ Commit and Push workflow
+
+I also created the required repository structure:
+
+```
+MLB-Internship/
+└── Day1/
+```
+
+### Student Grading System
+
+I developed a Python-based Student Grading System that:
+
+ Accepts student name and class
+ Takes the number of subjects as input
+ Accepts subject names and marks
+ Validates marks to ensure they are within the valid range
+ Calculates total marks and average
+ Assigns grades based on the calculated average
+ Displays the complete student report
+
+This project helped me strengthen my understanding of variables, loops, conditional statements, functions, user input, and problem-solving.
+
+### GitHub
+
+ Uploaded all Day 1 files to the GitHub repository.
+ Committed changes with meaningful commit messages.
+ Successfully pushed the project to the remote repository.
+
+**GitHub Repository:**
+Add your repository link here.*
+
+## Challenges Faced
+
+While implementing the Student Grading System, I encountered a few logical issues related to input validation and grading conditions. Instead of relying on AI, I debugged the code independently by reviewing my logic, testing different inputs, and referring to Python documentation and online resources where necessary. This improved my debugging skills and understanding of the concepts.
+
+## Key Learnings
+
+ Better understanding of Python fundamentals.
+ Learned how to manage projects using Git and GitHub.
+ Gained hands-on experience with repository creation, commits, and pushing code.
+ Improved logical thinking while developing the Student Grading System.
+ Strengthened debugging and problem-solving skills through self-learning.
+
+## Plan for Next Day
+
+ Continue strengthening Python fundamentals.
+ Begin Machine Learning concepts with a solid programming foundation.
+ Practice more coding problems to improve logic-building and debugging skills.
