@@ -1,5 +1,3 @@
-
-#Student Grading System that takes student name, class, subjects, and marks as input, calculates the average, and assigns grades (A, B, C, F)
 StudentName=input("enter student name: ")
 StudentClass=input("enter student class: ")
 Numofsubjects=int(input("enter number of subjects: "))
@@ -7,9 +5,13 @@ totalMarks=0
 for i in range(Numofsubjects):
     studentSubject=input("enter subject name: ")
     studentMarks=int(input("enter marks: "))
+    if studentMarks < 0 or studentMarks > 100:
+        print("Invalid Marks")
+        exit()
     totalMarks+=studentMarks
 
 averageMarks=totalMarks/Numofsubjects
+
 
 print("\n")
 
