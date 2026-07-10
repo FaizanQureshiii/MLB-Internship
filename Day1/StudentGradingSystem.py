@@ -1,5 +1,4 @@
 
-#Student Grading System that takes student name, class, subjects, and marks as input, calculates the average, and assigns grades (A, B, C, F)
 StudentName=input("enter student name: ")
 StudentClass=input("enter student class: ")
 Numofsubjects=int(input("enter number of subjects: "))
