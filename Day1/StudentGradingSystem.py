@@ -1,4 +1,3 @@
-
 StudentName=input("enter student name: ")
 StudentClass=input("enter student class: ")
 Numofsubjects=int(input("enter number of subjects: "))
