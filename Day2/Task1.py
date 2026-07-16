@@ -10,3 +10,4 @@ print("height=",height)
 print("width=",width)
 print("numofchanels=",numofchanels)
 print("totalpixels=",totalpixels)
+
