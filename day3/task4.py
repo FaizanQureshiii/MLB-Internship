@@ -124,4 +124,4 @@ plt.title("Segmented Output")
 plt.axis("off")
 
 plt.tight_layout()
-plt.show()
+plt.show()  
